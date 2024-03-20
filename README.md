@@ -21,6 +21,14 @@ src="https://img.shields.io/github/followers/ktanpatel?logo=github&style=for-the
 
 <p align="left"> <a href="https://www.github.com/ktanpatel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ktanpatel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
+
 ### Badges
 
 <b>My GitHub Stats</b>
